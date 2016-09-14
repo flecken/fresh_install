@@ -4,7 +4,7 @@ sudo add-apt-repository "deb http://archive.canonical.com/ $(lsb_release -sc) pa
 sudo add-apt-repository ppa:webupd8team/nemo -y #nemo
 #udo add-apt-repository ppa:tiheum/equinox -y #faince
 
-wget https://dl.google.com/linux/direct/google-chrome-stable_current_i386.deb
+wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
 
 sudo apt-get update
 
