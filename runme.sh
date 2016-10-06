@@ -20,6 +20,7 @@ sudo apt-get --yes --force-yes install filezilla
 sudo apt-get --yes --force-yes install keepass2
 sudo apt-get --yes --force-yes install hedgewars
 sudo apt-get --yes --force-yes install pinta
+sudo apt-get --yes --force-yes install etherwake
 
 #install Chrome
 sudo dpkg -i google-chrome-stable_current_amd64.deb
